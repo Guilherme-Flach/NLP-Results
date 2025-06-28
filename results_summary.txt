@@ -1,0 +1,96 @@
+------------------------- DeBERTA_NLI-bigbench.json -------------------------
+
+Model Family: DeBERTa
+Model Name: DeBERTA_NLI
+Dataset: BIG-Bench
+Correct Guesses: 41
+Final Score: 0.201970
+
+------------------------- DeBERTA_NLI-musr.json -------------------------
+
+Model Family: DeBERTa
+Model Name: DeBERTA_NLI
+Dataset: MuSR
+Correct Guesses: 125
+Final Score: 0.500000
+
+------------------------- DeepSeekR1-bigbench.json -------------------------
+
+Model Family: DeepSeek
+Model Name: DeepSeekR1
+Dataset: BIG-Bench
+Correct Guesses: 122
+Final Score: 0.600985
+
+------------------------- DeepSeekR1-musr.json -------------------------
+
+Model Family: DeepSeek
+Model Name: DeepSeekR1
+Dataset: MuSR
+Correct Guesses: 181
+Final Score: 0.724000
+
+------------------------- DeepSeekV3-bigbench.json -------------------------
+
+Model Family: DeepSeek
+Model Name: DeepSeekV3
+Dataset: BIG-Bench
+Correct Guesses: 91
+Final Score: 0.448276
+
+------------------------- DeepSeekV3-musr.json -------------------------
+
+Model Family: DeepSeek
+Model Name: DeepSeekV3
+Dataset: MuSR
+Correct Guesses: 179
+Final Score: 0.716000
+
+------------------------- DeepSeekV3_NoCot-bigbench.json -------------------------
+
+Model Family: DeepSeek
+Model Name: DeepSeekV3
+Dataset: BIG-Bench
+Correct Guesses: 80
+Final Score: 0.394089
+
+------------------------- DeepSeekV3_NoCoT-musr.json -------------------------
+
+Model Family: DeepSeek
+Model Name: DeepSeekV3
+Dataset: MuSR
+Correct Guesses: 174
+Final Score: 0.696000
+
+------------------------- Gambler-bigbench.json -------------------------
+
+Model Family: Random
+Model Name: Gambler
+Dataset: BIG-Bench
+Correct Guesses: 53
+Final Score: 0.261084
+
+------------------------- Gambler-musr.json -------------------------
+
+Model Family: Random
+Model Name: Gambler
+Dataset: MuSR
+Correct Guesses: 133
+Final Score: 0.532000
+
+------------------------- ModernBERT_NLI-bigbench.json -------------------------
+
+Model Family: ModernBERT
+Model Name: ModernBERT NLI
+Dataset: BIG-Bench
+Correct Guesses: 48
+Final Score: 0.236453
+
+------------------------- ModernBERT_NLI-musr.json -------------------------
+
+Model Family: ModernBERT
+Model Name: ModernBERT NLI
+Dataset: MuSR
+Correct Guesses: 120
+Final Score: 0.480000
+
